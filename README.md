@@ -1,4 +1,3 @@
-[REDME.md](https://github.com/user-attachments/files/33671092/REDME.md)
 # WanderWise 360
 
 **WanderWise 360** is a first-year group project for the University of Computer Studies, Yangon (UCSY). It is a front-end travel discovery website that introduces visitors to destinations across Myanmar and presents sample travel packages.
@@ -50,7 +49,7 @@ The table is collapsed by default. Expand it to view team members and their cont
 | Toe Wai Phyo | Content Research and Data |
 | Thet Endrain Lwin | Content Research and Data; UI/UX Design |
 | Cheint Cheint Chuu | Content Research and Data; UI/UX Design |
-| Nang Hsu Htae | Content Research and Data; UI/UX Design |
+| Nang Hsu Wint Htae | Content Research and Data; UI/UX Design |
 | Thin Thin Thwe | Content Research and Data; UI/UX Design |
 | Lin Lin Lett Tun | Content Research and Data; Front-End Development |
 | Thu Thu Zin | Content Research and Data |
