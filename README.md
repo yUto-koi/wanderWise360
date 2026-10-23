@@ -47,11 +47,11 @@ The table is collapsed by default. Expand it to view team members and their cont
 | Win Linn Htet | Front-End Development; Content Research and Data |
 | Sett Lwin Htoo | Front-End Development; Content Research and Data |
 | Toe Wai Phyo | Content Research and Data |
-| Thet Endrain Lwin | Content Research and Data; UI/UX Design |
+| Thet Endrainy Lwin | Content Research and Data; UI/UX Design |
 | Cheint Cheint Chuu | Content Research and Data; UI/UX Design |
-| Nang Hsu Wint Htae | Content Research and Data; UI/UX Design |
+| Nann Hsu Wint Htae | Content Research and Data; UI/UX Design |
 | Thin Thin Thwe | Content Research and Data; UI/UX Design |
-| Lin Lin Lett Tun | Content Research and Data; Front-End Development |
+| Lin Lett Lett Tun | Content Research and Data; Front-End Development |
 | Thu Thu Zin | Content Research and Data |
 
 </details>
